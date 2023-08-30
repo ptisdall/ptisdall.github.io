@@ -1,23 +1,29 @@
 source "https://rubygems.org"
 
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+
+#source "https://rubygems.org"
+
 # To update to the latest github dependencies run: `bundle update`
 # To list current versions: `bundle exec github-pages versions`
 # Check github versions: https://pages.github.com/versions/
 gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-  gem 'jekyll-paginate'
-  gem 'jekyll-seo-tag'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-include-cache'
-end
+#group :jekyll_plugins do
+#  gem 'jekyll-feed'
+#  gem 'jekyll-paginate'
+#  gem 'jekyll-seo-tag'
+#  gem 'jekyll-sitemap'
+#  gem 'jekyll-include-cache'
+#end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
-  gem "tzinfo-data"
+   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
