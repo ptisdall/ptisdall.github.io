@@ -7,7 +7,7 @@ permalink: /about/
 My name is Peter Tisdall, and this site is intended to be a collection of the things I have learned while working as an AIT Engineer.
 
 ### Experience
-2023 -- **Senior Systems Engineer**
+2023-Present -- **Senior Systems Engineer**
  : Curtiss-Wright Corporation
 
 
