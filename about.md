@@ -7,11 +7,9 @@ permalink: /about/
 My name is Peter Tisdall, and this site is intended to be a collection of the things I have learned while working as an AIT Engineer.
 
 ### Education
-2008-2012     **University College Dublin**
-              
-  BSc. Physics, Astronomy, and Space Science
-              
-  Thesis: *Optical observations of the M36 star cluster and short timescale variability blazars*
+2008-2012 -- University College Dublin
+ : BSc. Physics, Astronomy, and Space Science         
+ : Thesis: *Optical observations of the M36 star cluster and short timescale variability blazars*
 
 2012-2014     **University College Dublin**
               
